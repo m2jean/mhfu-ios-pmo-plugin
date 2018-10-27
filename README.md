@@ -9,7 +9,9 @@ Usally, a `.pac` file is consist of a binary section (the skeleton), a `.pmo` fi
 
 Put `fmt_mhskeleton_bin.py` and `fmt_mnstrhntr_pmo.py` in the `plugin/python` folder in Noesis. Done.
 
-__The wireframe mode need to be enabled to view the skeleton.__
+__The enable the wireframe mode and disable face culling to view the skeleton.__
+
+![Skeleton](screenshots/skeleton.PNG)
 
 The rules of texture mapping is still unclear, so wrong texture mapping is sometimes expected.
 
